@@ -1,3 +1,3 @@
-创始人Bob Pike解说golang
-http://www.oschina.net/translate/go-at-google-language-design-in-the-service-of-software-engineering
-http://talks.golang.org/2012/splash.article
+Go创始人之一Rob Pike于2012年10月25日在SPLASH 2012大会上解说golang
+中文译版 http://www.oschina.net/translate/go-at-google-language-design-in-the-service-of-software-engineering
+英文原版 http://talks.golang.org/2012/splash.article
